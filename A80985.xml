@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By His Highness a proclamation for relief of godly ministers against suits and molestations by persons sequestred, ejected, or not approved.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80985</idno>
+            <idno type="STC">Wing C7152</idno>
+            <idno type="STC">Thomason 669.f.20[1]</idno>
+            <idno type="STC">ESTC R205545</idno>
+            <idno type="EEBO-CITATION">99864894</idno>
+            <idno type="PROQUEST">99864894</idno>
+            <idno type="VID">117126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117126)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By His Highness a proclamation for relief of godly ministers against suits and molestations by persons sequestred, ejected, or not approved.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLV. [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Given at White-Hall this 3rd of July 1655.</note>
+                  <note>Thomason copy imperfect; bottom edge of first sheet and top of second cropped, with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Church lands --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_proclamation">
+            <pb facs="tcp:117126:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>O P</head>
+                  <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By His Highneſs: A PROCLAMATION FOR RELIEF Of Godly <hi>MINISTERS</hi> againſt Suits and Moleſtations by Peſons Sequeſtred, Ejected, or not Approved.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſince the Parliament began at <hi>Weſtminſter,</hi> the third day of <hi>November</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and forty, divers Miniſters, Lecturers, Schoolmaſters and others have been ſequeſtred or re<g ref="char:EOLhyphen"/>jected from their reſpective Parſonages, Rectories, Vicarages and other Eccleſiaſtical Benefices or Places, for Delinquency againſt the Commonwealth, or for Scandal or Inſufficiency, by Ordinance or Order of Parliament, by Order of the late Committee of Parliament for Plundred Miniſters, by Committees in the counties by vertue of Ordinances of Parliament in that behalf, and by the Com<g ref="char:EOLhyphen"/>miſsioners appointed by the Ordinance for Ejecting of Scandalous, Ignorant and Inſufficient Miniſters and Schoolmaſters; Notwithſtanding which, divers of the ſaid Sequeſtred and Ejected Perſons have of late gotten into the Poſſeſsion of ſuch Places, from which they have been ſequeſtred or ejected, and others have commenced Suits for Recovering the Poſſeſsion from ſuch perſons as have been put into ſuch places, or do otherwiſe inter<g ref="char:EOLhyphen"/>rupt and trouble ſuch perſons in their Poſſeſsion, to the great vexation and diſcouragement of the Godly Miniſtry within this Nation, and to the prejudice and diſappointment of the Reformation which hath bin ſo long deſired and endeavored: His Highneſs and the Council having received divers Complaints of this nature, and taking into conſideration the dangerous Evils likely to enſue, in caſe the ſame be not timely prevented, Do hereby Publiſh and Declare, That they hold themſelves obliged to take care, that as well ſuch perſons ſo ſequeſtred or ejected, or which ſhall by the Authority aforeſaid be ſequeſtred or ejected, be not reſtored to ſuch places from whence they have been, or ſhall be ſo ſequeſtred or ejected; as alſo that ſuch pious and able perſons as have been, are, or ſhall be placed in the room of ſuch ſequeſtred or ejected perſon, by Ordinance or Order of Parliament, or of the late Committee for Plundred Miniſters, or by any Committee in the reſpective counties authorized thereunto by Ordinaunce of Par<g ref="char:EOLhyphen"/>liament, or by Order of His Highneſs, or of His Highneſs &amp; the Council, be preſerved and continued in their quiet and peaceable poſſeſſion and enjoyment of the Profits belonging to ſuch Benefice or Place, without the interruption of ſuch ſequeſtred or ejected perſon; And therefore His Highneſs, by the advice of y<hi rend="sup">e</hi> Council, doth ſtrictly charge and com<g ref="char:EOLhyphen"/>mand, That all &amp; every ſuch perſon and perſons who hath bin ſo ſequeſtred or ejected, and all perſons claiming under him or them, do immediately upon publication hereof, &amp; ſuch as ſhal be hereafter ſo ſequeſtred or ejected, do within one month after ſuch ſequeſtration or ejection, quietly and peaceably leave and deliver up the poſſeſſion of ſuch place, whence he hath been or ſhall be ſo ejected, and of all Houſes, Lands and other Profits belonging to the ſame, unto ſuch perſon, and perſons as have been or ſhall, by authority aforeſaid, in that behalf, be placed in ſuch Par<g ref="char:EOLhyphen"/>ſonage, Rectory, Vicarage, Eccleſiaſtical Benefice, or Place, and do from henceforth forbear to Commence, or proſecute any ſute or action, for recovery of the Poſſeſsion of any ſuch Parſonage, Vicarage, Rectory, Eccleſiaſti<g ref="char:EOLhyphen"/>cal Benefice, or Place, or any Profits belonging to the ſame; And do before the thirtieth day of <hi>July</hi> inſtant re<g ref="char:EOLhyphen"/>voke, diſcharge, and releaſe all, and every ſuch action, or ſute, and acknowledge ſatisfaction upon any Iudge<g ref="char:EOLhyphen"/>ment had or obtained upon ſuch action, or ſute; and alſo ſhall reſtore the Poſſeſsion, and profits received, or the full value of ſuch Profits, with the Damages incurred by reaſon of any Iudgement, and execution had therupon, con<g ref="char:EOLhyphen"/>trary to any the Orders, or Ordinances aforeſaid. And that all and every perſon and perſons who have been, or ſhall be ſequeſtred, or ejected for any the Cauſes aforeſaid, do permit, and ſuffer ſuch perſon, and perſons as have bin or ſhall by the Authority aforeſaid be placed in ſuch Parſonage, Rectory, Vicarage, &amp; other Eccleſiaſtical Benefice or Place, peaceably and quietly to hold, &amp; enjoy the ſame, without any their let, or interruption, ſute or Moleſtation whatſoever. And his Highneſs by the advice aforeſaid, doth further declare, That all, and every the ſequeſtred, or ejected perſons aforeſaid, who ſhall not conform, or ſhall do any thing contrary hereunto, ſhall from thenceforth be debarred from receiving, or claiming any the Fifths of ſuch Parſonage, Rectory or Vicarage, or any arrears now, or hereafter due for the ſame, and ſhall be reputed, and taken to be diſturbers of the peace, diſaffected to the preſent Government, and oppoſers of the good, and welfare of this Nation, and be proceeded againſt according<g ref="char:EOLhyphen"/>ly. And whereas divers perſons, who have not been approved by the Commiſsioners appointed for approbation of Publick Preachers, according to the Ordinance of his Highneſs, with the advice and conſent of the Coun<g ref="char:EOLhyphen"/>cill in that behalf, do nevertheleſs detain, and withhold the Poſſeſsion of divers Parſonages, Rectories, Vica<g ref="char:EOLhyphen"/>rages, and Publick Lectures, from ſuch perſons, as, according to the ſaid Ordinance, have been preſented, no<g ref="char:EOLhyphen"/>minated, and choſen unto the ſame, and received an Inſtrument of Approbation, and admittance, according to the ſaid Ordinance, whereby the good intended by the ſaid Ordinance in ſupplying ſuch Places with godly and a<g ref="char:EOLhyphen"/>ble Preachers, is interrupted; His Highneſs, by the advice of the Council, doth likewiſe ſtraightly charge, and require, that all and every perſon and perſons, who ſince the firſt day of <hi>April 1653.</hi> have been placed in ſuch Be<g ref="char:EOLhyphen"/>nefices, or Publick Lectures, and hath not obtained approbation, and admittance in the manner expreſſed in the ſaid Ordinance, within the times, which by it, or any other Ordinance of his Highneſs, and the Council, hath
+<pb facs="tcp:117126:2"/> been prefixed for obtaining ſuch approbation and admittance, do before the thirtieth day of this inſtant <hi>July,</hi> leave and yield up the poſſeſsion of ſuch Benefice, or Lecture, to ſuch perſon, and perſons, as according to the ſaid Ordi<g ref="char:EOLhyphen"/>nance, hath been, or ſhall be admitted thereunto; and all and every ſuch perſon and perſons as hereafter ſhall be preſented, nominated, or choſen to ſuch Benefice, or Publick Lecture, and ſhall not obtain ſuch approbation, and admittance by the time prefixed for that purpoſe, do within one Moneth after demand therof, leave and yield up the Poſſeſsion of ſuch Benefice, or Lecture, unto ſuch perſon, and perſons, as ſhall be ſo admitted thereunto, accor<g ref="char:EOLhyphen"/>ding to the ſaid Ordinance, and in default thereof, all and every perſon and perſons ſo making default, and refuſing, ſhall be deemed, and taken to be diſturbers of the peace, diſaffected to the preſent Government, and oppoſers of the good and welfare of this Nation, and be proceeded againſt accordingly. And to the intent the premiſſes may be the more effectually executed, his Highneſs, by like advice, doth further Declare, That no ſute, or plaint ſhall be brought, or entertained in any Court, contrary to the true intent, and meaning of the ſaid Orders and Ordinances; And doth alſo require, That no Counſellors at Law, Atturneys, or other Officers be inſtrumental (at their peril) in any ſute, intended to be forbidden as aforeſaid. And his Highneſs doth further Will, and require all, and every the Sheriffs of the reſpective Counties to cauſe this Proclamation to be read at the next Aſsizes holden for the re<g ref="char:EOLhyphen"/>ſpective Counties, that no perſon concerned may pretend ignorance hereof.</p>
+            <closer>
+               <dateline>Given at White-Hall <date>this 3<hi rend="sup">d</hi> of <hi>July</hi> 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed by his Highneſs ſpecial command.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs, MDCLV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
